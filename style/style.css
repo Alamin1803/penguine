@@ -1,0 +1,40 @@
+/* custom fonts  */
+html,body{
+font-family: 'Bebas Neue', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif;
+ box-sizing: border-box;
+}
+/* reset css  */
+*{
+    margin: 0;
+    padding: 0;
+}
+ 
+/* nav css  */
+.navbar{
+    background-color: #FFFBF0;
+}
+.navbar-brand img{
+    width: 291px;
+}
+.nav-link{
+    font-size: 1rem;
+    font-weight: 600;
+}
+/* top banner section  */
+.top_banner_section{
+    background-color: #FFFBF0;
+}
+.top_banner_Left h1{
+font-size: 36px;
+font-weight: 800;
+}
+.banner_left_color{
+    color: #FABE4C;
+}
+.top_banner_Left button{
+    color: #ffffff;
+    background-image: linear-gradient(to top , #A4BC46,  #85A019);
+    padding: 7px 8px;
+}
