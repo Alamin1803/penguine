@@ -16,7 +16,7 @@ font-family: 'Open Sans', sans-serif;
     background-color: #FFFBF0;
 }
 .navbar-brand img{
-    width: 291px;
+    width: 18.12rem;
 }
 .nav-link{
     font-size: 1rem;
@@ -37,4 +37,23 @@ font-weight: 800;
     color: #ffffff;
     background-image: linear-gradient(to top , #A4BC46,  #85A019);
     padding: 7px 8px;
+}
+/* women section  */
+.card{
+    
+    border:none;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+.card>img{
+    width: 280px;
+    height: 280px;
+    padding: 10px;
+    background-color: #F1F1F1;
+}
+.card-btn h2{
+    color: #FABE4C;
+}
+.card button{
+    background-image: linear-gradient(to top , #A4BC46,  #85A019);
+    color: #fff;
 }
